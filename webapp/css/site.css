@@ -1,0 +1,36 @@
+/* css here */
+h1{
+	text-align: center;
+}
+
+.container{
+	width: 50%;
+}
+
+#delete {
+	width: 80px;
+}
+
+#sold {
+	width: 80px;
+	margin-top: -16px;
+}
+
+#unsold {
+	width: 80px;
+	margin-top: -16px;
+}
+
+.click {
+  background-color: LightCoral;
+}
+
+.API {
+	margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2%;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
